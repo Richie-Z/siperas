@@ -1,5 +1,5 @@
 
-# Siperas
+# Siperas (Sistem Informasi Pembayaran SPP)
 A Payment System for Tuition
 **Documentation curently unavailable**
 |Backend| Frontend |
